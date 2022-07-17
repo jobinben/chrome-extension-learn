@@ -1,0 +1,26 @@
+{
+  "name": "chrome-extension-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinben/chrome-extension-learn.git"
+  },
+  "keywords": [
+    "chrome-extensions"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinben/chrome-extension-learn/issues"
+  },
+  "homepage": "https://github.com/jobinben/chrome-extension-learn#readme",
+  "dependencies": {
+    "@types/chrome": "0.0.193",
+    "types": "^0.1.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "chrome-extension",
+    "description": "build an extension!",
+    "version": "0.0.1",
+    "manifest_version": 2,
+
+    "background": {
+        "service_worker": "bg.js"
+    },
+
+    "permissions": ["bookmarks"]
+}
