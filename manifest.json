@@ -17,5 +17,15 @@
         }
     ],
 
-    "permissions": ["bookmarks"]
+    "browser_action": {
+        "default_title": "摆烂工程师",
+        "default_popup": "popup.html"
+    },
+
+    "permissions": ["bookmarks"],
+    "icons": {
+        "16": "bl.png",
+        "32": "bl.png",
+        "128": "bl.png"
+    }
 }
